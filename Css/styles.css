@@ -1,0 +1,8 @@
+body{background-color: lightpink;
+text-align: center; margin: 150; font-size: 50px;}
+.hey{position: relative; bottom: 20px; }
+.top-container{
+position: relative; height: 300px;}
+.div2{background-color:  rgb(241, 209, 233); position: relative; padding-bottom:20px ;}
+.div3{background-color: rgb(241, 209, 233); padding-bottom: 20px; padding-top: 20px;}
+.but{font-size: 150px; position: relative;}
